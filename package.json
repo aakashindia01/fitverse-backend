@@ -1,0 +1,33 @@
+{
+  "name": "fitversepro-backend",
+  "version": "1.0.0",
+  "description": "FitVerse is a multi-tenancy gym application. The backend handles API management and database operations using Node.js and Express.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fitversepro/fitversepro-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fitversepro/fitversepro-backend/issues"
+  },
+  "homepage": "https://github.com/fitversepro/fitversepro-backend#readme",
+  "volta": {
+    "node": "22.14.0"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^3.0.2",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "pg": "^8.14.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.7"
+  }
+}
