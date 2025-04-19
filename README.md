@@ -37,5 +37,5 @@ FitVerse is a multi-tenancy gym application. The backend handles API management 
 ## Getting Started
 1. Clone the repository:https://github.com/aakashindia01/fitverse-backend.git
 2. Install dependencies
-3. Run the development server 💪
+3. Run the development server💪
 4. Access the API at `http://localhost:3000`.
